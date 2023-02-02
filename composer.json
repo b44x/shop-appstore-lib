@@ -1,10 +1,10 @@
 {
-    "name": "dreamcommerce/shop-appstore-lib",
+    "name": "b44x/shop-appstore-lib",
     "description": "SDK for Dreamcommerce based shops REST-API",
     "license": "MIT",
     "require": {
         "php": ">=5.3.0",
-        "psr/log": "^1.1.4"
+        "psr/log": "^1.0|^2.0|^3.0",
     },
     "autoload": {
         "psr-4": {
@@ -19,6 +19,10 @@
         {
             "name": "Michał Korus",
             "email": "michal.korus@dreamcommerce.com"
+        },
+        {
+            "name": "Michell Hoduń",
+            "email": "mhodun@gmail.com"
         }
     ]
 }
